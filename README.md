@@ -13,7 +13,7 @@ The `enit_tp1_wordcount` folder contains the complete MapReduce implementation f
 ## Prerequisites
 
 - Docker and Docker Compose installed
-- Java Development Kit (JDK) 8 or higher
+- Java Development Kit (JDK) 11
 - Apache Maven
 - Hadoop Docker containers running (namenode, datanode, etc.)
 
